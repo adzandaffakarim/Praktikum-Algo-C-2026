@@ -1,11 +1,14 @@
-print('hello world!')
-nama = 'atiqa'
-kelas = 'ti c'
-nim = '25071102136'
+print("Hello World!")
+nama = 'Maria Ulfa'
+kelas = 'TI.C'
+NIM = '25071103170'
 
-# 1
-print('nama saya', nama, 'saya berada di kelas', kelas, 'dengan nim', nim)
+#1
+print('Halo, nama saya', nama, 'saya duduk di kelas', kelas, 'dengan NIM', NIM)
+
 #2
-print('nama saya ' + nama + ' saya berada di kelas ' + kelas + ' dengan nim ' + nim)
+print("Halo nama saya " + nama + " saya duduk di kelas " + kelas + " dengan NIM " + NIM)
+
 #3
-print(f'halo nama saya {nama} saya berada di kelas {kelas} dengan nim {nim}')
+print(f'Halo nama saya {nama} saya duduk di kelas {kelas} dengan NIM {NIM}')
+
